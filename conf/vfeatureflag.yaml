@@ -1,0 +1,8 @@
+terraform_global: {}
+bind_address: 0.0.0.0:5000
+install_version: "local"
+install_githash: "local"
+db_config:
+  db_host: localhost
+  db_name: go-vfeatureflag
+  db_user: vikas.rao
